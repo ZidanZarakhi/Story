@@ -22,3 +22,17 @@ git checkout
 Untuk menunjukan perbedaan antara working dan directorry dan staging area.
 
 git diff <name.file>
+
+
+Untuk push (mengirim) semua riwayat git ke Github 
+Global secara remote.
+
+menyambungkan 
+
+git remote add origin https://github.com/ZidanZarakhi/Story.git
+
+
+
+untuk mengirim hasil repository
+
+git push -u origin main
