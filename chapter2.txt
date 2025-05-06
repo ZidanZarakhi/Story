@@ -14,6 +14,11 @@ bash
 git commit -m "Message"
 
 
-Untuk kembali ke kembali ke posisi terkahir di repository
+Untuk kembali ke ke posisi terkahir di repository
 
 git checkout
+
+
+Untuk menunjukan perbedaan antara working dan directorry dan staging area.
+
+git diff <name.file>
