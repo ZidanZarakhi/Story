@@ -1,0 +1,14 @@
+Untuk menghubungkan ke staginh area 
+
+menambahkan semua perubahan (file baru, file yang diubah, file yang dihapus):
+
+bash
+
+git add . 
+
+
+Untuk menyimpan riwayat git , contoh code  yang sudah diperbarui. note: wajib dengan message
+
+bash
+
+git commit -m "Message"

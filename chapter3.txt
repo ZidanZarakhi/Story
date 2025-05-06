@@ -1,0 +1,24 @@
+🔁 Alur Kerja Git: 3 Area Utama
+1. Working Directory (Direktori Kerja)
+Ini adalah folder proyek kamu di komputer.
+
+Semua file yang kamu buat, edit, atau hapus dilakukan di sini.
+
+Contoh: kamu buka index.html dan menambahkan baris baru.
+
+2. Staging Area (Index)
+Tempat sementara untuk menyimpan perubahan yang siap untuk di-commit.
+
+Kamu memindahkan file dari working directory ke sini dengan git add.
+
+Di sinilah kamu bilang ke Git: "Saya ingin commit versi file yang ini."
+
+3. Repository (Local Repository)
+Tempat penyimpanan riwayat commit.
+
+Setelah kamu git commit, perubahan di staging akan disimpan permanen di sini.
+
+Kamu bisa melihat commit dengan git log.
+
+
+LOCAL
