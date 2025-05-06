@@ -12,3 +12,8 @@ Untuk menyimpan riwayat git , contoh code  yang sudah diperbarui. note: wajib de
 bash
 
 git commit -m "Message"
+
+
+Untuk kembali ke kembali ke posisi terkahir di repository
+
+git checkout
