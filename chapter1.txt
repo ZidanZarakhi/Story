@@ -1,1 +1,14 @@
 Chapter 1
+
+Set Nama dan Email untuk Repository Tertentu Saja
+Kalau kamu ingin mengatur nama/email hanya untuk satu repository saja (bukan global), jalankan perintah ini di dalam folder proyek:
+
+bash
+
+git config user.name "Nama Kamu"
+git config user.email "email@example.com"
+
+check 
+
+git config --global user.name
+git config --global user.email
