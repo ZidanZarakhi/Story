@@ -36,3 +36,19 @@ git remote add origin https://github.com/ZidanZarakhi/Story.git
 untuk mengirim hasil repository
 
 git push -u origin main
+
+
+Git branch adalah fitur yang memungkinkan kamu untuk bekerja di versi terpisah dari proyek utama (atau master branch), tanpa memengaruhi kode yang sedang berjalan di cabang utama. Ini memberikan fleksibilitas dalam mengembangkan fitur baru, memperbaiki bug, atau bereksperimen tanpa risiko merusak kode yang sudah stabil.
+
+Cara Menggunakan Git Branch:
+Melihat Daftar Branch
+
+git branch
+
+
+
+
+
+switch branch menggunakan checkout
+
+git checkout <nama branch>
